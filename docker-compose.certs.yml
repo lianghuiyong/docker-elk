@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  certs:
+    image: docker.elastic.co/elasticsearch/elasticsearch:${ELK_VERSION}
+    command: bash /setup/setup-certs.sh
+    user: "0"
+    volumes:
+      - ./secrets:/secrets
+      - ./setup/:/setup
