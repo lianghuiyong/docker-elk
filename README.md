@@ -35,10 +35,6 @@ docker-compose -f docker-compose.keystore.yml run --rm keystore
 
 ## 4、启动ELK
 ```shell
-make elk
-
-或者
-
 docker-compose -f ./docker-compose.yml up  --build --remove-orphans
 ```
 ## 5、页面账号登录
