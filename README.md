@@ -1,11 +1,7 @@
+[![Security Status](https://s.murphysec.com/badge/lianghuiyong/docker-elk.svg)](https://www.murphysec.com/p/lianghuiyong/docker-elk)
+
 <h1 align="center">ELK 8.0.1 on <b>Docker</b></h1>
 <h2 align="center">Elastic 部署工具</h2>
-
-<p align="center">
-   <a>
-      [![Security Status](https://s.murphysec.com/badge/lianghuiyong/docker-elk.svg)](https://www.murphysec.com/p/lianghuiyong/docker-elk)
-   </a>
-</p>
 
 <p align="center">
    <a>
