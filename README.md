@@ -2,7 +2,9 @@
 <h2 align="center">Elastic 部署工具</h2>
 
 <p align="center">
-[![Security Status](https://s.murphysec.com/badge/lianghuiyong/docker-elk.svg)](https://www.murphysec.com/p/lianghuiyong/docker-elk)
+   <a>
+      [![Security Status](https://s.murphysec.com/badge/lianghuiyong/docker-elk.svg)](https://www.murphysec.com/p/lianghuiyong/docker-elk)
+   </a>
 </p>
 
 <p align="center">
