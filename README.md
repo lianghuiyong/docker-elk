@@ -1,5 +1,8 @@
 <h1 align="center">ELK 8.0.1 on <b>Docker</b></h1>
 <h2 align="center">Elastic 部署工具</h2>
+
+[![Security Status](https://s.murphysec.com/badge/lianghuiyong/docker-elk.svg)](https://www.murphysec.com/p/lianghuiyong/docker-elk)
+
 <p align="center">
    <a>
       <img src="https://img.shields.io/badge/ElasticSearch-8.0.1-blue?style=flat&logo=ElasticSearch" alt="Elastic Stack Version 7^^">
